@@ -1,7 +1,7 @@
-Sublime Text 2 plugin that adds a panel to reopen recently closed (deactivated) files (bound under ctrl+e/super+e).
+Sublime Text 2 plugin that adds a quickly open panel to list all opened files (bound under ctrl+e/super+e).
+
+It is usefull when you are coding with full screen or distraction free mode.
 
 To install just clone the repository to a new folder under Packages/ in your Sublime Text 2 configuration folder.
 
-This plugin is modification of GotoRecent(https://github.com/paccator/GotoRecent)
-
-It is usefull when you are coding with full screen or distraction free mode
+This plugin is modification of GotoRecent(https://github.com/paccator/GotoRecent).
