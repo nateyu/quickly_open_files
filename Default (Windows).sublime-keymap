@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+e"], "command": "quickly_open_files" }
+]
